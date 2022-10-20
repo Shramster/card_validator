@@ -5,6 +5,6 @@ Source is located at /src/main.rs
 
 1. Install Rust
 
-2. clone repo and run:
-  `cargo build`
-  `cargo run -- ./cardnumber_later`
+2. clone repo and run:<br>
+  `cargo build` <br>
+  `cargo run -- ./cardnumber_later`<br>
